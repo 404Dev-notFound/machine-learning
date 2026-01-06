@@ -1,21 +1,7 @@
 # Machine Learning Project 🚀
 
 ## 📌 Overview
-This repository contains a Machine Learning project focused on building, training, and evaluating predictive models using real-world data.  
-The goal is to understand core ML concepts and apply them practically.
-
----
-
-## 🧠 Concepts Covered
-- Data Collection & Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Model Training  
-- Model Evaluation  
-- Prediction & Inference  
-
----
-
+This repository 
 ## 🛠️ Tech Stack
 - Python 🐍  
 - NumPy  
