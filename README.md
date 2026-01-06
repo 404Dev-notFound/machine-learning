@@ -84,12 +84,4 @@ Dev Goel
 Computer Science & Engineering
 Machine Learning Enthusiast
 
----
-
-## ⚙️ Installation
-```bash
-git clone https://github.com/404Dev-notFound/machine-learning.git
-cd machine-learning
-pip install -r requirements.txt
-
 
